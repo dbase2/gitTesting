@@ -6,5 +6,3 @@ print('Adding a new print!')
 print('Adding a new print4!')
 
 # This program prints Hello, world!
-
-print('feature 4')
