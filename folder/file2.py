@@ -8,3 +8,4 @@ print('Adding a new print4!')
 # This program prints Hello, world!
 
 print(':)')
+print('Hello, world!')
